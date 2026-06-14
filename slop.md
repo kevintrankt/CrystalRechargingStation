@@ -25,44 +25,4 @@
 9. **peter** _05/27/2026 1:05 PM_
    Yeah dealing with rekordbox vs engine formats would be a huge pain probably. Wouldn't repartitioning put us back to square 1 though in that the controller would just see a bunch of different sources that we'd have to swap between? I thought we wanted to avoid having to go and do the extra button pushing to bounce between sources
 
-10. **kebin** _05/27/2026 1:08 PM_
-    yeah true it'd be nice to not have to deal with changing sources.
-
-    if we can find a way to have an empty RB playlist and as we put more usbs in, everything appends to that library - would need some sort of diffing logic if the same usb is inserted and there's new music/cues
-
-11. **kebin** _05/27/2026 3:13 PM_
-    @Sam
-
-12. **kebin** _05/27/2026 4:28 PM_
-    https://www.notion.so/kebt/Crystal-Recharge-USB-Hub-36d6e036c005801383d0d4e671b113ef
-
-13. i'll plug in some agents to handle some coding tasks for us
-
-14. **Sam** _05/27/2026 7:09 PM_
-    Hmm
-
-15. Is this for music sharing?
-
-16. Swapping usbs isn't that much of a chore
-
-17. **kebin** _05/27/2026 7:11 PM_
-    music sharing
-
-18. swapping usbs is whatever - denon supports a usb hub
-
-19. it's building a shared library
-
-20. **kebin** _06/02/2026 8:33 PM_
-    https://nicotine-plus.org/ @John
-    Nicotine+
-    [Nicotine+](https://nicotine-plus.org/)
-    Graphical client for the Soulseek peer-to-peer network
-
-21. modern day limewire
-
-22. **John** _06/02/2026 8:34 PM_
-    Oh yah
-
-23. When I get moved up to michigan circa early July I can start taking a look at how annoying the Rekordbox DB format is
-
-24. Claude says not too hard
+1
